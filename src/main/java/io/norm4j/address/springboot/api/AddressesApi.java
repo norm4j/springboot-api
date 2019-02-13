@@ -1,7 +1,7 @@
-package org.norm4j.address.springboot.api;
+package io.norm4j.address.springboot.api;
 
+import io.norm4j.address.springboot.model.Address;
 import lombok.extern.slf4j.Slf4j;
-import org.norm4j.address.springboot.model.Address;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
