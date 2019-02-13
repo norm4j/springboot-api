@@ -1,4 +1,4 @@
-package org.norm4j.address.springboot.model;
+package io.norm4j.address.springboot.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

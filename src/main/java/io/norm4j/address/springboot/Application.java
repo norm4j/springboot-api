@@ -1,4 +1,4 @@
-package org.norm4j.address.springboot;
+package io.norm4j.address.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
